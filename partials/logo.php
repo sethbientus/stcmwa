@@ -1,0 +1,1 @@
+<link rel="shortcut icon" type="img/png" href="<?php echo $setting->getUrl() ?>assets/logo.png">
